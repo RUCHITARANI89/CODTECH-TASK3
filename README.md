@@ -1,9 +1,13 @@
 INTERN: RUCHITA RANI
 
 Intern ID: CT4MFTE
+
 Domain: Cloud Computing
+
 Duration: December 20, 2024, to April 20, 2025
+
 Company: CODTECH IT SOLUTIONS
+
 Mentor: Neela Santhosh Kumar
 
 Task: CLOUD STORAGE SETUP
