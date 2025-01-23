@@ -1,6 +1,10 @@
 INTERN: RUCHITA RANI
 
-Intern ID: CT4MFTEDomain: Cloud ComputingDuration: December 20, 2024, to April 20, 2025Company: CODTECH IT SOLUTIONSMentor: Neela Santhosh Kumar
+Intern ID: CT4MFTE
+Domain: Cloud Computing
+Duration: December 20, 2024, to April 20, 2025
+Company: CODTECH IT SOLUTIONS
+Mentor: Neela Santhosh Kumar
 
 Task: CLOUD STORAGE SETUP
 
@@ -10,73 +14,73 @@ Task Highlights
 
 Cloud Storage Setup:
 
-Created an Amazon S3 bucket for storing and managing files in the cloud.
+  Created an Amazon S3 bucket for storing and managing files in the cloud.
 
-Configured bucket settings, including:
+  Configured bucket settings, including:
 
-Bucket Versioning: Enabled to track and retain changes to stored objects.
+  Bucket Versioning: Enabled to track and retain changes to stored objects.
 
-Access Policies: Implemented custom bucket policies to manage permissions.
+  Access Policies: Implemented custom bucket policies to manage permissions.
 
-Encryption: Configured server-side encryption to secure data at rest.
+  Encryption: Configured server-side encryption to secure data at rest.
 
-Data Upload and Retrieval:
+  Data Upload and Retrieval:
 
-Uploaded sample files (e.g., text files, images) to the S3 bucket.
+  Uploaded sample files (e.g., text files, images) to the S3 bucket.
 
-Validated object storage and retrieval using the AWS Management Console and AWS CLI.
+  Validated object storage and retrieval using the AWS Management Console and AWS CLI.
 
-Confirmed proper functioning by accessing files via pre-signed URLs.
+  Confirmed proper functioning by accessing files via pre-signed URLs.
 
 Access Control:
 
-Implemented IAM Roles and Policies to restrict access to the bucket.
+  Implemented IAM Roles and Policies to restrict access to the bucket.
 
-Utilized S3 Block Public Access to enhance security for sensitive data.
+  Utilized S3 Block Public Access to enhance security for sensitive data.
 
-Configured permissions for authorized users to upload and download files.
+  Configured permissions for authorized users to upload and download files.
 
 Lifecycle Policies:
 
-Created lifecycle rules to automate data management by transitioning objects to S3 Glacier for cost optimization.
+  Created lifecycle rules to automate data management by transitioning objects to S3 Glacier for cost optimization.
 
-Set up automatic deletion policies for obsolete files after a specific period.
+  Set up automatic deletion policies for obsolete files after a specific period.
 
 Monitoring and Logging:
 
-Enabled S3 Server Access Logs to track bucket activity and access patterns.
+  Enabled S3 Server Access Logs to track bucket activity and access patterns.
 
-Configured CloudWatch Metrics to monitor storage usage and requests.
+  Configured CloudWatch Metrics to monitor storage usage and requests.
 
 Cost Optimization:
 
-Analyzed storage usage with S3 Storage Class Analysis.
+  Analyzed storage usage with S3 Storage Class Analysis.
 
-Transitioned infrequently accessed objects to S3 Intelligent-Tiering for cost savings.
+  Transitioned infrequently accessed objects to S3 Intelligent-Tiering for cost savings.
 
 Key Achievements
 
 Efficient Cloud Storage Implementation:
 
-Designed and implemented a scalable and secure storage solution using AWS S3.
+  Designed and implemented a scalable and secure storage solution using AWS S3.
 
-Ensured data integrity and accessibility with bucket versioning and encryption.
+  Ensured data integrity and accessibility with bucket versioning and encryption.
 
-Secure and Managed Access:
+  Secure and Managed Access:
 
-Utilized IAM roles and bucket policies to ensure proper access control.
+  Utilized IAM roles and bucket policies to ensure proper access control.
 
-Enhanced data security by enabling block public access and configuring permissions.
+  Enhanced data security by enabling block public access and configuring permissions.
 
 Automated Data Management:
 
-Streamlined storage operations using lifecycle rules to reduce manual effort.
+  Streamlined storage operations using lifecycle rules to reduce manual effort.
 
-Optimized costs by transitioning data to lower-cost storage classes.
+  Optimized costs by transitioning data to lower-cost storage classes.
 
 Enhanced Practical Knowledge of AWS:
 
-Gained hands-on experience with AWS S3, IAM, and CloudWatch for managing cloud storage.
+  Gained hands-on experience with AWS S3, IAM, and CloudWatch for managing cloud storage.
 
 Learned to deploy, manage, and monitor a robust cloud storage system effectively.
 
